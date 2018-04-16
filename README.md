@@ -1,2 +1,3 @@
 # Data_Model
-Server with sogang ubuntu
+Server with sogang ubuntu or AWS 
+Test
